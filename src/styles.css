@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+.login,
+.sign-up {
+  background: none;
+  border: 1px solid #0367fd;
+  padding: 14px 35px;
+  outline: none;
+  color: #0367fd;
+  border-radius: 24px;
+  cursor: pointer;
+}
+.login:hover,
+.sign-up:hover {
+  background: #0367fd;
+  border: none;
+  color: white;
+}
