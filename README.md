@@ -1,2 +1,0 @@
-# ginzr
-Created with CodeSandbox
